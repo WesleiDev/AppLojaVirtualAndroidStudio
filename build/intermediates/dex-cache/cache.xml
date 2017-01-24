@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\weslei\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_9e68b5169f710cb5a28624738614514031ab3548\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\exploded-aar\com.mikepenz\iconics-core\2.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dcac7435781db56e25ab17c3f662227c517fc327">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-iconics-core-2.8.0_49da2f35362653d3921d8e08eb33c732ceb9a70a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_f4672cbdbd5fb0392cc7b2c6b7d78e005240026f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_620cf51a632204bf35c576b024237a17b9eb11e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\exploded-aar\com.mikepenz\fastadapter\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7118aee70be2579da7bc488325e2c2ba9f668514">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-fastadapter-2.1.0_56320f06502bc49ed556e3bde52dcdbffdbaa9dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_be817ab74301dc7ae6467eaa8eda03b05d9c75e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_bddbd705c870388e1fd3f3dcc077a99b88901cc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\weslei\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_f4e1f55784fd1ddfdf1931b49f693c1ce5a8ea23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97ea8e46ed0a3dc81e353209f84cc6558dbdd84c">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_07c42fb30751677d86500b98800a84caea894848\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\exploded-aar\com.mikepenz\material-design-iconic-typeface\2.2.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9bd93b592576bd85b8329dcf1ecea2b05d3ba2fd">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-material-design-iconic-typeface-2.2.0.2_90a966063816e8e39cac5f124346793f7ca85e79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_06cacfb832bdb525757c600112cc030d3f5531a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_304edec1237c9d1c39761f069401c53675e9295f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_9e3277b2d78ec09a50418a7f271c207a74fe1a8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_6d7c3c97c682edd89a2413b767a8cbba84dad604\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="821a2ae751979d9f133cd98f6d29562994efd153">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0761db541485866ead6557d6da97ace399938c62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\exploded-aar\com.mikepenz\materialdrawer\5.8.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4c4c6db6020ed19f773bfe4e6d45662a1780489">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-materialdrawer-5.8.1_764f6a017b2f4386ea78cd9afd37314a992712ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_241f6e85476c1d8a183e195452c4c1a558ddc948\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\weslei\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_976a11cb17cd3a7e539e418867953ba12191c363\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\exploded-aar\com.mikepenz\materialize\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="84c98924eff3106f306c3e233cc2e6d84744f518">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-materialize-1.0.0_d4750ee4b415c9644390be7bc27e1abb21dc0544\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\exploded-aar\com.mikepenz\fontawesome-typeface\4.7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b7b769c2e819c4e6144da34c9df4ac0f56cf450">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-fontawesome-typeface-4.7.0.0_38b2c11e03b636d0764667f4c3533f3b89dfa5a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_4053d583ffa2c4ee277c3909516836eb5de9757f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_f05abbfa45502d722fa83cabd312244fe6231d20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\exploded-aar\com.mikepenz\google-material-typeface\2.2.0.3.original\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f635f53387085220f02014589f50b14d6efb3ec">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-google-material-typeface-2.2.0.3.original_022ee5c2521bf3acc9a6ecdb7d87f1f274f93bce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\weslei\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_e925bf44dee0dd20c26e980f4df2dfaf1e8e5875\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\Programas\Android\AndroidStudioProjects\AppLojaVirtual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_ee49fa3b9965f5cfaa9ff3e1fb0fb902f306dbd5\classes.dex" />
+    </item>
+
+</items>
